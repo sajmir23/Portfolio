@@ -40,6 +40,6 @@ A system for managing hospital operations, including patient registration, room 
 
 ##  Contact
 - 📧 Email: sajmir.kokoshi16@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/saimir-kokoshi-472b851b8](https://linkedin.com/in/sajmir-kokoshi-472b851b8)
+- 💼 LinkedIn: [linkedin.com/in/sajmir-kokoshi-472b851b8](https://linkedin.com/in/sajmir-kokoshi-472b851b8)
 
 > Thank you for visiting my portfolio!  
