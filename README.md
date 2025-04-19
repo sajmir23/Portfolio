@@ -6,7 +6,7 @@ Below you can find some of the main projects I have worked on:
 
 ---
 
-## 🏥 Project 1: Account Management
+## 💳 Project 1: Account Management
 
 **Description:**  
 An application for managing bank accounts, allowing user creation, deposits, withdrawals, and transaction history tracking.
