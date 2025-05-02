@@ -35,7 +35,7 @@ A system for managing hospital operations, including patient registration, room 
 - Swagger (for API documentation and testing)   
 - Postman (for API testing)
 
-🔗 [View the project here](https://github.com/sajmir23/Hospital-Managment-System)
+🔗 [View the project here](https://github.com/sajmir23/Hospital-Management-System)
 
 
 ##  Contact
